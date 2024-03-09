@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Karina\Desktop\ticketing-app\Faza1\ProiectPOO\SalaEveniment.h(297,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Karina\Desktop\ticketing-app\Faza1\ProiectPOO\Bilet.h(128,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  ProiectPOO.vcxproj -> C:\Users\Karina\Desktop\ticketing-app\Faza1\x64\Debug\ProiectPOO.exe
